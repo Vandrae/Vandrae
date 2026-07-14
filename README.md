@@ -5,6 +5,7 @@ Java developer in training, building backend systems with Spring Boot, MySQL, an
 - 🌱 Currently completing **Year Up United's Application Development program** (Application Development, Computer Architecture, Databases, Software Testing)
 - 💻 Focused on **backend development**: Java, Spring Boot, REST APIs, and relational databases
 - 🔍 Actively seeking an **entry-level Software Developer / Junior Java Developer** role
+- ⚡ Fun fact: I went from operating a forklift to operating a JVM
 
 ---
 
@@ -47,7 +48,7 @@ A console-based finance tracker that records deposits and payments to CSV, with 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vandrae&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.athul.dev/api?username=Vandrae&show_icons=true&theme=default&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vandrae&hide_border=true" width="49%" />
 </p>
 
@@ -56,6 +57,6 @@ A console-based finance tracker that records deposits and payments to CSV, with 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vandrae&theme=flat&no-frame=true&row=1&column=6" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vandrae&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="98%" />
 </p>
 
