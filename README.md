@@ -2,7 +2,6 @@
 
 Java developer in training, building backend systems with Spring Boot, MySQL, and clean object-oriented design. Coming from a background in high-volume operations, I bring the same discipline and accuracy to writing code that I did to running warehouses.
 
-- 🌱 Currently completing **Year Up United's Application Development program** (Application Development, Computer Architecture, Databases, Software Testing)
 - 💻 Focused on **backend development**: Java, Spring Boot, REST APIs, and relational databases
 - 🔍 Actively seeking an **entry-level Software Developer / Junior Java Developer** role
 
