@@ -1,12 +1,3 @@
-# Hi, I'm Gabriel Carroll 👋
-
-Java developer in training, building backend systems with Spring Boot, MySQL, and clean object-oriented design. Coming from a background in high-volume operations, I bring the same discipline and accuracy to writing code that I did to running warehouses.
-
-- 💻 Focused on **backend development**: Java, Spring Boot, REST APIs, and relational databases
-- 🔍 Actively seeking an **entry-level Software Developer / Junior Java Developer** role
-
----
-
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
